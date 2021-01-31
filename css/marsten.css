@@ -213,11 +213,11 @@ section#contact a:after {
 
 .work-list img {  
     object-fit: cover;
-    width: 100%;
+    width: 100%; 
     max-height: 240px;
 }
 
-}
+
 .work-list a:hover img {
     -webkit-filter: grayscale(100%)
 }
